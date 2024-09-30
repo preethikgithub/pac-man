@@ -1,1 +1,1 @@
-Pac-man Project Developed Using Java
+Pac-man Project Developed Using Python
